@@ -1,0 +1,12 @@
+aws:
+  s3_bucket: "your-bucket-name"
+
+paths:
+  raw_orders: "raw/orders/"
+  processed_orders: "processed/orders/"
+
+api:
+  orders_url: "https://fakestoreapi.com/orders"
+
+spark:
+  app_name: "DataEngineeringPipeline"

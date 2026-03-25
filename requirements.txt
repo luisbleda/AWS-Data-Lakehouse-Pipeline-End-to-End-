@@ -1,0 +1,19 @@
+# Spark y Glue
+pyspark==3.5.0
+aws-glue-sessions==1.0.0
+
+# AWS SDK
+boto3==1.30.0
+
+# Requests para ingesta desde APIs
+requests==2.31.0
+
+# PyYAML para cargar config.yaml
+pyyaml==6.0
+
+# Testing
+pytest==7.4.0
+pytest-mock==3.11.0
+
+# Opcionales, para formatos Parquet/CSV avanzados
+fastparquet==2023.10.0

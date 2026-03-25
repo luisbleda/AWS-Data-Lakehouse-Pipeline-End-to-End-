@@ -1,0 +1,36 @@
+[
+  {
+    "id": 101,
+    "userId": 1,
+    "date": "2023-03-01",
+    "products": [
+      {"productId": 201, "quantity": 2},
+      {"productId": 202, "quantity": 1}
+    ]
+  },
+  {
+    "id": 102,
+    "userId": 2,
+    "date": "2023-03-05",
+    "products": [
+      {"productId": 203, "quantity": 1}
+    ]
+  },
+  {
+    "id": 103,
+    "userId": 1,
+    "date": "2023-03-10",
+    "products": [
+      {"productId": 201, "quantity": 1},
+      {"productId": 204, "quantity": 3}
+    ]
+  },
+  {
+    "id": 104,
+    "userId": 3,
+    "date": "2023-03-12",
+    "products": [
+      {"productId": 205, "quantity": 5}
+    ]
+  }
+]
