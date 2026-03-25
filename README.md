@@ -26,4 +26,4 @@ End-to-end data pipeline built on AWS simulating an e-commerce data platform.
 1. Configure AWS credentials
 2. Run ingestion script:
    ```bash
-   python src/ingestion/ingest_data.py
+   python main.py
